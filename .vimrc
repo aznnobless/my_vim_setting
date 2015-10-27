@@ -4,8 +4,8 @@ set background=dark
 set autoindent
 set smartindent
 set cindent
-set tabstop=4
-set shiftwidth=4
+set tabstop=2
+set shiftwidth=2
 set number
 set title
 set sm
